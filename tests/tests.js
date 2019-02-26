@@ -1,5 +1,5 @@
 import './html-equal.js';
-import gallery from '../src/gallery.js'
+import gallery from '../src/gallery.js';
 const test = QUnit.test;
 
 test('photo gallery test', function(assert) {
